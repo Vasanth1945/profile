@@ -19,7 +19,7 @@ function LoadingButton() {
 
   const handleClick = () => {
     setData('');       // Clear previous data
-    setLoading(true);  // Start loading
+    setLoading(true);  //
   };
 
   return (
